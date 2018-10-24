@@ -1,1 +1,0 @@
-publi clss Payment
